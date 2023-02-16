@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <!-- <class name="com.obsqura.TestNGAssignment.Navigation"/>
+      <class name="com.obsqura.TestNGAssignment.LocatorsAssignment"> -->
+<!--       <class name="com.obsqura.TestNGAssignment.LocatorExecutionSpeed"> -->
+<!-- 	<class name="com.obsqura.TestNGAssignment.FormSubmit"> -->
+	
+<!-- <class name="com.obsqura.TestNGAssignment.DatePicketMenuClick"> -->
+<!-- <class name="com.obsqura.TestNGAssignment.GureSiteRadioButton"> -->
+<!-- <class name="com.obsqura.TestNGAssignment.CheckBox"> --> 
+<!-- <class name="com.obsqura.TestNGAssignment.MultipleSelectDropDown"> -->
+<class name="com.obsqura.TestNGAssignment.LocatorUsingContainsTextofAndOr">
+<!-- <class name="com.obsqura.TestNGAssignment.DropDownUsingSelect"> -->
+<!-- <class name="com.obsqura.TestNGAssignment.MultipleSelectDropDown"> -->
+      <!-- <method>
+      <include name="classLocatorAmazone"/>
+      <exclude name="locatingById"/>
+      <exclude name="classLocator"/>
+      </method> -->
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
